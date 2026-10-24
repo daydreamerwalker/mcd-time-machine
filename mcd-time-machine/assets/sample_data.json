@@ -1,0 +1,1540 @@
+{
+  "meta": {
+    "generated_at": "2026-10-24T12:00:00+08:00",
+    "user_alias": "XXX",
+    "data_source": "mcd-mcp",
+    "year": 2026,
+    "period": {
+      "start": "2025-10-25",
+      "end": "2026-10-24"
+    }
+  },
+  "summary": {
+    "total_orders": 61,
+    "total_spend": 1874.0,
+    "total_items": 137,
+    "first_order_date": "2025-11-03",
+    "late_night_orders": 14,
+    "coupon_saved": 93.0,
+    "points_earned": 1932,
+    "points_available": 640,
+    "stores_count": 7
+  },
+  "orders": [
+    {
+      "id": "MCD20251103A",
+      "date": "2025-11-03",
+      "time": "12:30",
+      "type": "takeout",
+      "store": "XXX餐厅(1号店)",
+      "total": 44.5,
+      "saved": 5.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251115B",
+      "date": "2025-11-15",
+      "time": "19:20",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 44.0,
+      "saved": 6.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251123C",
+      "date": "2025-11-23",
+      "time": "22:40",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 24.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251206A",
+      "date": "2025-12-06",
+      "time": "12:10",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 29.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251213B",
+      "date": "2025-12-13",
+      "time": "20:05",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 29.5,
+      "saved": 4.0,
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 21.0,
+          "category": "burger"
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8.5,
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251220C",
+      "date": "2025-12-20",
+      "time": "18:30",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 19.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 13.0,
+          "category": "dessert"
+        },
+        {
+          "name": "甜筒",
+          "qty": 1,
+          "price": 6.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20251225D",
+      "date": "2025-12-25",
+      "time": "21:15",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 40.5,
+      "saved": 8.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "香芋派",
+          "qty": 1,
+          "price": 9.0,
+          "category": "dessert"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260101A",
+      "date": "2026-01-01",
+      "time": "12:00",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 35.0,
+      "saved": 6.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260115B",
+      "date": "2026-01-15",
+      "time": "10:20",
+      "type": "mall",
+      "store": "麦麦商城",
+      "total": 0.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦当劳麦金卡",
+          "qty": 1,
+          "price": 0.0,
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260110C",
+      "date": "2026-01-10",
+      "time": "08:15",
+      "type": "takeout",
+      "store": "XXX餐厅(1号店)",
+      "total": 25.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 13.0,
+          "category": "breakfast"
+        },
+        {
+          "name": "咖啡",
+          "qty": 1,
+          "price": 12.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260117D",
+      "date": "2026-01-17",
+      "time": "19:40",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 28.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦香鱼",
+          "qty": 1,
+          "price": 19.0,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260124E",
+      "date": "2026-01-24",
+      "time": "22:55",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 24.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260131F",
+      "date": "2026-01-31",
+      "time": "13:20",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 35.5,
+      "saved": 5.0,
+      "items": [
+        {
+          "name": "不素之霸",
+          "qty": 1,
+          "price": 26.0,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260206A",
+      "date": "2026-02-06",
+      "time": "12:30",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 34.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260211B",
+      "date": "2026-02-11",
+      "time": "21:50",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 37.5,
+      "saved": 6.0,
+      "items": [
+        {
+          "name": "脆汁鸡腿",
+          "qty": 1,
+          "price": 16.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260214C",
+      "date": "2026-02-14",
+      "time": "19:00",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 39.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "奥利奥麦旋风",
+          "qty": 1,
+          "price": 14.0,
+          "category": "dessert"
+        },
+        {
+          "name": "甜筒",
+          "qty": 2,
+          "price": 6.0,
+          "category": "dessert"
+        },
+        {
+          "name": "麦辣鸡翅",
+          "qty": 1,
+          "price": 13.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260217D",
+      "date": "2026-02-17",
+      "time": "18:40",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 56.0,
+      "saved": 10.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "麦辣鸡翅",
+          "qty": 1,
+          "price": 13.5,
+          "category": "chicken"
+        },
+        {
+          "name": "可乐",
+          "qty": 2,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260221E",
+      "date": "2026-02-21",
+      "time": "22:20",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 31.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260227F",
+      "date": "2026-02-27",
+      "time": "12:15",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 34.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 21.0,
+          "category": "burger"
+        },
+        {
+          "name": "阳光橙",
+          "qty": 1,
+          "price": 13.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260307A",
+      "date": "2026-03-07",
+      "time": "12:40",
+      "type": "takeout",
+      "store": "XXX餐厅(3号店)",
+      "total": 33.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260314B",
+      "date": "2026-03-14",
+      "time": "15:30",
+      "type": "delivery",
+      "store": "XXX餐厅(6号店)",
+      "total": 21.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 13.0,
+          "category": "dessert"
+        },
+        {
+          "name": "菠萝派",
+          "qty": 1,
+          "price": 8.5,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260322C",
+      "date": "2026-03-22",
+      "time": "23:10",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 22.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260329D",
+      "date": "2026-03-29",
+      "time": "19:10",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 33.5,
+      "saved": 4.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260404A",
+      "date": "2026-04-04",
+      "time": "12:20",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 38.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "培根蔬萃双层牛堡",
+          "qty": 1,
+          "price": 29.0,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260411B",
+      "date": "2026-04-11",
+      "time": "08:30",
+      "type": "takeout",
+      "store": "XXX餐厅(4号店)",
+      "total": 22.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 13.0,
+          "category": "breakfast"
+        },
+        {
+          "name": "牛奶",
+          "qty": 1,
+          "price": 9.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260420C",
+      "date": "2026-04-20",
+      "time": "11:05",
+      "type": "mall",
+      "store": "麦麦商城",
+      "total": 0.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "积分兑换甜筒券",
+          "qty": 2,
+          "price": 0.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260419D",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 37.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦香鱼",
+          "qty": 1,
+          "price": 19.0,
+          "category": "burger"
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8.5,
+          "category": "other"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260425E",
+      "date": "2026-04-25",
+      "time": "23:30",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 32.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260501A",
+      "date": "2026-05-01",
+      "time": "13:00",
+      "type": "takeout",
+      "store": "XXX餐厅(6号店)",
+      "total": 44.5,
+      "saved": 8.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260509B",
+      "date": "2026-05-09",
+      "time": "12:10",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 34.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260516C",
+      "date": "2026-05-16",
+      "time": "21:40",
+      "type": "delivery",
+      "store": "XXX餐厅(2号店)",
+      "total": 20.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "奶茶",
+          "qty": 1,
+          "price": 14.0,
+          "category": "drink"
+        },
+        {
+          "name": "甜筒",
+          "qty": 1,
+          "price": 6.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260523D",
+      "date": "2026-05-23",
+      "time": "22:50",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 25.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "麦辣鸡翅",
+          "qty": 1,
+          "price": 13.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260530E",
+      "date": "2026-05-30",
+      "time": "18:20",
+      "type": "takeout",
+      "store": "XXX餐厅(3号店)",
+      "total": 34.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 21.0,
+          "category": "burger"
+        },
+        {
+          "name": "阳光橙",
+          "qty": 1,
+          "price": 13.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260601A",
+      "date": "2026-06-01",
+      "time": "15:00",
+      "type": "delivery",
+      "store": "XXX餐厅(6号店)",
+      "total": 30.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8.5,
+          "category": "other"
+        },
+        {
+          "name": "牛奶",
+          "qty": 1,
+          "price": 9.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260613B",
+      "date": "2026-06-13",
+      "time": "12:30",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 29.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260619C",
+      "date": "2026-06-19",
+      "time": "19:30",
+      "type": "delivery",
+      "store": "XXX餐厅(5号店)",
+      "total": 45.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "脆汁鸡腿",
+          "qty": 1,
+          "price": 16.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 17.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260625D",
+      "date": "2026-06-25",
+      "time": "23:05",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 33.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260628E",
+      "date": "2026-06-28",
+      "time": "14:10",
+      "type": "takeout",
+      "store": "XXX餐厅(3号店)",
+      "total": 22.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 13.0,
+          "category": "dessert"
+        },
+        {
+          "name": "香芋派",
+          "qty": 1,
+          "price": 9.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260704A",
+      "date": "2026-07-04",
+      "time": "12:00",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 31.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260711B",
+      "date": "2026-07-11",
+      "time": "22:35",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 33.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260718C",
+      "date": "2026-07-18",
+      "time": "13:20",
+      "type": "takeout",
+      "store": "XXX餐厅(6号店)",
+      "total": 32.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8.5,
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260725D",
+      "date": "2026-07-25",
+      "time": "20:50",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 34.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 21.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 13.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260729E",
+      "date": "2026-07-29",
+      "time": "23:40",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 32.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260731F",
+      "date": "2026-07-31",
+      "time": "18:00",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 44.0,
+      "saved": 6.0,
+      "items": [
+        {
+          "name": "麦辣鸡翅",
+          "qty": 1,
+          "price": 13.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        },
+        {
+          "name": "可乐",
+          "qty": 2,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260801G",
+      "date": "2026-08-01",
+      "time": "16:40",
+      "type": "mall",
+      "store": "麦麦商城",
+      "total": 0.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦当劳主题玩具",
+          "qty": 1,
+          "price": 0.0,
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260808A",
+      "date": "2026-08-08",
+      "time": "12:40",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 33.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260814B",
+      "date": "2026-08-14",
+      "time": "02:47",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 31.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260820C",
+      "date": "2026-08-20",
+      "time": "15:30",
+      "type": "delivery",
+      "store": "XXX餐厅(6号店)",
+      "total": 20.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "奥利奥麦旋风",
+          "qty": 1,
+          "price": 14.0,
+          "category": "dessert"
+        },
+        {
+          "name": "甜筒",
+          "qty": 1,
+          "price": 6.0,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260822D",
+      "date": "2026-08-22",
+      "time": "19:20",
+      "type": "takeout",
+      "store": "XXX餐厅(3号店)",
+      "total": 34.5,
+      "saved": 5.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260829E",
+      "date": "2026-08-29",
+      "time": "23:20",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 26.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "脆汁鸡腿",
+          "qty": 1,
+          "price": 16.5,
+          "category": "chicken"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260905A",
+      "date": "2026-09-05",
+      "time": "12:15",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 32.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦香鱼",
+          "qty": 1,
+          "price": 19.0,
+          "category": "burger"
+        },
+        {
+          "name": "阳光橙",
+          "qty": 1,
+          "price": 13.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260912B",
+      "date": "2026-09-12",
+      "time": "08:20",
+      "type": "takeout",
+      "store": "XXX餐厅(1号店)",
+      "total": 25.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 13.0,
+          "category": "breakfast"
+        },
+        {
+          "name": "咖啡",
+          "qty": 1,
+          "price": 12.0,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260919C",
+      "date": "2026-09-19",
+      "time": "21:10",
+      "type": "delivery",
+      "store": "XXX餐厅(2号店)",
+      "total": 35.0,
+      "saved": 6.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260925D",
+      "date": "2026-09-25",
+      "time": "19:00",
+      "type": "takeout",
+      "store": "XXX餐厅(6号店)",
+      "total": 43.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 21.0,
+          "category": "burger"
+        },
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 13.0,
+          "category": "dessert"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20260930E",
+      "date": "2026-09-30",
+      "time": "22:30",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 24.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261001A",
+      "date": "2026-10-01",
+      "time": "13:30",
+      "type": "takeout",
+      "store": "XXX餐厅(5号店)",
+      "total": 46.5,
+      "saved": 10.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "麦辣鸡翅",
+          "qty": 1,
+          "price": 13.5,
+          "category": "chicken"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261008B",
+      "date": "2026-10-08",
+      "time": "12:20",
+      "type": "takeout",
+      "store": "XXX餐厅(2号店)",
+      "total": 29.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "可乐",
+          "qty": 1,
+          "price": 9.5,
+          "category": "drink"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261011C",
+      "date": "2026-10-11",
+      "time": "23:50",
+      "type": "delivery",
+      "store": "XXX餐厅(4号店)",
+      "total": 35.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "巨无霸",
+          "qty": 1,
+          "price": 23.5,
+          "category": "burger"
+        },
+        {
+          "name": "薯条",
+          "qty": 1,
+          "price": 11.5,
+          "category": "fries"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261016D",
+      "date": "2026-10-16",
+      "time": "19:40",
+      "type": "delivery",
+      "store": "XXX餐厅(3号店)",
+      "total": 30.5,
+      "saved": 4.0,
+      "items": [
+        {
+          "name": "麦辣鸡腿堡",
+          "qty": 1,
+          "price": 22.0,
+          "category": "burger"
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8.5,
+          "category": "other"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261020E",
+      "date": "2026-10-20",
+      "time": "15:00",
+      "type": "takeout",
+      "store": "XXX餐厅(6号店)",
+      "total": 22.5,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "奶茶",
+          "qty": 1,
+          "price": 14.0,
+          "category": "drink"
+        },
+        {
+          "name": "菠萝派",
+          "qty": 1,
+          "price": 8.5,
+          "category": "dessert"
+        }
+      ]
+    },
+    {
+      "id": "MCD20261023F",
+      "date": "2026-10-23",
+      "time": "22:15",
+      "type": "delivery",
+      "store": "XXX餐厅(1号店)",
+      "total": 32.0,
+      "saved": 0.0,
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 19.5,
+          "category": "burger"
+        },
+        {
+          "name": "麦乐鸡",
+          "qty": 1,
+          "price": 12.5,
+          "category": "chicken"
+        }
+      ]
+    }
+  ],
+  "account": {
+    "points_available": 640,
+    "points_earned": 1932,
+    "points_expiring": 120
+  },
+  "campaigns": [
+    {
+      "date": "2026-01-01",
+      "title": "新年麦麦加油站",
+      "status": "past"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "春节团聚分享桶",
+      "status": "past"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "劳动节畅吃套餐",
+      "status": "past"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "国庆黄金周活动",
+      "status": "past"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "程序员节麦麦礼遇",
+      "status": "ongoing"
+    }
+  ],
+  "lottery": {
+    "draw_count": 12,
+    "prizes": 3
+  },
+  "nutrition": {
+    "unit": "kcal/g/mg",
+    "display": {
+      "热量": "40,950 kcal",
+      "蛋白质": "1,508 g",
+      "脂肪": "1,726 g",
+      "碳水化合物": "5,034 g",
+      "钠": "58.5 g"
+    }
+  }
+}
